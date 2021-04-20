@@ -10,7 +10,7 @@ idna==2.6
 more-itertools==4.1.0
 pkg-resources==0.0.0
 pluggy==0.6.0
-py==1.5.3
+py==1.10.0
 pytest==3.5.1
 requests==2.18.4
 selene==1.0.0a13
